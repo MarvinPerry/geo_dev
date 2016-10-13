@@ -1,0 +1,1 @@
+This is an example IPython Notebook that leverages Esri's new Python API to allow an administrator to query their organization to check the license information for every item and update it as necessary.
